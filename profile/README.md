@@ -1,6 +1,6 @@
 <div align=center>
 
-# Tech Challenge
+# Projeto FIAP Tech Challenge
 
 [Overview](#overview)
 &nbsp;&bull;&nbsp;[Documentação](#documentação)
