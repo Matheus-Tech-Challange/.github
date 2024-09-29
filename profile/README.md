@@ -6,7 +6,7 @@
 &nbsp;&bull;&nbsp;[Documentação](#documentação)
 &nbsp;&bull;&nbsp;[Executar localmente](#executar-projeto-localmente-com-docker-compose)
 &nbsp;&bull;&nbsp;[Guia de execução API](#guia-de-execução-api)
-&nbsp;&bull;&nbsp;[Vídeo demonstrativo](#vídeo-demonstrativo-da-arquitetura)
+&nbsp;&bull;&nbsp;[Vídeos demonstrativos](#vídeo-demonstrativo-da-arquitetura)
 
 </div>
 
@@ -28,6 +28,8 @@ O projeto **Tech Challenge** é uma API desenvolvida em C# com .NET 6.0 para ges
 - **MySQL**
 - **Docker**
 - **Kubernetes**
+- **Terraform**
+- **Amazon Web Services (AWS)**
 
 ## Documentação
 
