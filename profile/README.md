@@ -52,12 +52,12 @@ A arquitetura utilizada é a **Clean Architecture**, e foi implementada as segui
 >- **API**: Contém os controladores da API.
 
 ### Desenho da arquitetura
-- Diagrama com requisitos de infraestrutura utilizando Minikube:
+- Diagrama com requisitos de infraestrutura utilizando Minikube [FASE 2]:
 
 ![Texto Alternativo](https://raw.githubusercontent.com/lolorenzetti/first-tech-challenge/main/Diagrama.png)
 
 ## Vídeo demonstrativo da arquitetura:
-- Vídeo demonstrando a execução da infrastrutura kubernetes em execução:
+- Vídeo demonstrando a execução da infrastrutura kubernetes em execução [FASE 2]:
 [Veja no youtube](https://youtu.be/CKT5Zn2f8B0)
 
 
