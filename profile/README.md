@@ -60,6 +60,10 @@ A arquitetura utilizada é a **Clean Architecture**, e foi implementada as segui
   
 ![Texto Alternativo](https://raw.githubusercontent.com/Matheus-Tech-Challange/.github/refs/heads/main/Diaframa%20Fase3.drawio.png)
 
+- Diagrama do banco de dados [FASE 3]:
+
+![](https://raw.githubusercontent.com/Matheus-Tech-Challange/.github/refs/heads/main/Diagrama%20BD.png)
+
 ## Vídeo demonstrativo da arquitetura:
 - Vídeo demonstrando a execução da infrastrutura kubernetes em execução [FASE 2]:
 [Veja no youtube](https://youtu.be/CKT5Zn2f8B0)
