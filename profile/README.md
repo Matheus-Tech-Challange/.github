@@ -64,6 +64,13 @@ A arquitetura utilizada é a **Clean Architecture**, e foi implementada as segui
 
 ![](https://raw.githubusercontent.com/Matheus-Tech-Challange/.github/refs/heads/main/Diagrama%20BD.png)
 
+### Porque usar o mysql [FASE 3]?
+Escolhi o MySQL como banco de dados para a aplicação devido à sua maturidade, confiabilidade e larga adoção no mercado, sendo uma tecnologia consolidada tanto em pequenas quanto grandes empresas. Além disso, nossa equipe já possui expertise no MySQL, o que agiliza o desenvolvimento e a resolução de problemas, garantindo uma curva de aprendizado mais suave e uma manutenção eficiente no longo prazo.
+
+Optar por um banco de dados relacional como o MySQL traz várias vantagens. Primeiramente, ele oferece suporte a transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade), o que é crucial para garantir a integridade e segurança dos dados, especialmente em cenários de falhas ou concorrência de acessos. Além disso, o modelo relacional permite que os dados sejam armazenados de forma estruturada, facilitando a execução de consultas complexas por meio da linguagem SQL, amplamente conhecida e eficiente.
+
+Por ser uma solução de código aberto com forte apoio da comunidade, há uma grande variedade de recursos, documentação e ferramentas disponíveis, o que facilita a integração com outras tecnologias da arquitetura do sistema. Dessa forma, o MySQL é uma escolha estratégica que combina robustez, flexibilidade e custo-benefício para o projeto.
+
 ## Vídeo demonstrativo da arquitetura:
 - Vídeo demonstrando a execução da infrastrutura kubernetes em execução [FASE 2]:
 [Veja no youtube](https://youtu.be/CKT5Zn2f8B0)
