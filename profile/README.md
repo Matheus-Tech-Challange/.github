@@ -78,7 +78,7 @@ A arquitetura utilizada é a **Clean Architecture**, e foi implementada as segui
 1. **Clonar o Repositório**
 
 ```bash
-git clone https://github.com/lolorenzetti/first-tech-challenge.git
+git clone https://github.com/Matheus-Tech-Challange/tech-challenge-api.git
 cd first-tech-challenge/TechChallenge
 ```
 
