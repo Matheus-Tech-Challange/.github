@@ -64,6 +64,10 @@ A arquitetura utilizada é a **Clean Architecture**, e foi implementada as segui
 
 ![](https://raw.githubusercontent.com/Matheus-Tech-Challange/.github/refs/heads/main/Diagrama%20BD.png)
 
+- Diagrama arquitetura [FASE 4]:
+
+- ![](https://github.com/Matheus-Tech-Challange/.github/blob/main/Diagrama%20arquitetura%20fase%204.drawio.png)
+
 ### Porque usar o mysql [FASE 3]?
 Escolhi o MySQL como banco de dados para a aplicação devido à sua maturidade, confiabilidade e larga adoção no mercado, sendo uma tecnologia consolidada tanto em pequenas quanto grandes empresas. Além disso, nossa equipe já possui expertise no MySQL, o que agiliza o desenvolvimento e a resolução de problemas, garantindo uma curva de aprendizado mais suave e uma manutenção eficiente no longo prazo.
 
